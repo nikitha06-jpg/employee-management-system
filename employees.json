@@ -1,0 +1,10 @@
+[
+    {
+        "type": "manager",
+        "emp_id": 102,
+        "name": "sarah",
+        "department": "HR",
+        "base_salary": 60000,
+        "team_size": 5
+    }
+]
